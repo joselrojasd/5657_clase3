@@ -11,5 +11,8 @@
   <li>
     compilar el código
   </li>
+  <li>
+    comprimir el archivo
+  </li>
 </ol>
 <p>Cualquier duda escribe a <a href="mailto:joselrojasd@gmail.com">Jose L. Rojas D.</a></p>
